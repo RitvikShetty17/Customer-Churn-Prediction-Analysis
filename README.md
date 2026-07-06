@@ -1,6 +1,8 @@
 # Customer Churn Prediction Analysis 
 _____________________________________
 
+🔗 **Live App:** [Customer Churn Predictor](https://customer-churn-prediction-analysis-i2.streamlit.app)
+
 # Project Objective
 
 The goal of this project is to analyze customer data to identify the key factors contributing to customer churn and suggest actionable strategies to retain customers. The analysis aims to:
